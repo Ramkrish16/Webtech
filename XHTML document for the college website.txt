@@ -1,0 +1,61 @@
+<html>
+<head>
+<center>WEB TECHNOLOGES LAB Ex:1</center>
+<title>Demonstrate Text Styling, Links, Image, List & Table </title>
+<link rel="stylesheet" href="xyz.css" type="text/css">
+<style type="text/css">
+.vid{font-family:verdana;font-style:italic;color:red;text-align:center}
+.ani{font-family:tahoma;font-style:italic;font-size:20;text-align:center;}
+font{font-family:georgia;color:blue;font-size:20}
+ul{list-style-type:circle}
+</style>
+</head>
+<body>
+<ol style="list-style-type:lower-alpha">
+<b>KPR GROUPE OF INSTITUTIONS </b><br><br><br>
+<li>KPR Institute of Engineering and Technology
+<li>KPR College of Arts and Science
+<li>KPR Public Schools
+<li>KPR International Schools
+</ol>
+<p style="font-size:20pt;color:purple">KPR GROUP OF INSTITUTIONS WELCOMES YOU</p>
+<p class="ani">KPR IET is owned by KPR<br>It is approved
+by AICET and affliated to Anna University, Chennai.<br></p>
+<h2 class="vid">KPR IET</h2>
+<br>
+<font>
+Courses Offered @ KPR IET
+<ul>
+<li>Computer Science and Engineering</li>
+<li>Artificial Intelligence and Data Science</li>
+<li>Mechanical Engineering</li>
+<li>Biomedical Engineering</li>
+<li>Electronics and Communication Engineering</li>
+<li>Electrical and Electronics Engineering</li>
+</ul>
+</font>
+Scholarship Details for ECE
+<table width="100%" cellspacing="2" cellpadding="2" border="5">
+<tr>
+<th>S.No</th>
+<th>Cut-Off</th>
+<th>Scholarship</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">>190</td>
+<td align="center">100% College Fee</td>
+</tr>
+<tr>
+<td align="center"> 2.</td>
+<td align="center"> 185-190 </td>
+<td align="center"> 100% Tuition Fee</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">180-184</td>
+<td align="center">50% Tution Fee</td>
+</tr>
+</table>
+</body>
+</html>
